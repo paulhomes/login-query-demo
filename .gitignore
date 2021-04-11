@@ -1,0 +1,6 @@
+autoexec.sas
+*.sh
+*.log
+*.lst
+*-request.xml
+*-response.xml
